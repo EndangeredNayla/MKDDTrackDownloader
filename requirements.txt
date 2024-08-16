@@ -1,0 +1,3 @@
+gdown
+git+https://github.com/NicKoehler/mediafire_bulk_downloader.git
+requests
